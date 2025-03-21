@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="y" attr.type="string"/>
+<key id="d0" for="node" attr.name="x" attr.type="string"/>
+<graph edgedefault="undirected"><node id="ATLAM5">
+  <data key="d0">-84.3833</data>
+  <data key="d1">33.75</data>
+</node>
+<node id="ATLAng">
+  <data key="d0">-85.5</data>
+  <data key="d1">34.5</data>
+</node>
+<node id="CHINng">
+  <data key="d0">-87.6167</data>
+  <data key="d1">41.8333</data>
+</node>
+<node id="DNVRng">
+  <data key="d0">-105.0</data>
+  <data key="d1">40.75</data>
+</node>
+<node id="HSTNng">
+  <data key="d0">-95.517364</data>
+  <data key="d1">29.770031</data>
+</node>
+<node id="IPLSng">
+  <data key="d0">-86.159535</data>
+  <data key="d1">39.780622</data>
+</node>
+<node id="KSCYng">
+  <data key="d0">-96.596704</data>
+  <data key="d1">38.961694</data>
+</node>
+<node id="LOSAng">
+  <data key="d0">-118.25</data>
+  <data key="d1">34.05</data>
+</node>
+<node id="NYCMng">
+  <data key="d0">-73.9667</data>
+  <data key="d1">40.7833</data>
+</node>
+<node id="SNVAng">
+  <data key="d0">-122.02553</data>
+  <data key="d1">37.38575</data>
+</node>
+<node id="STTLng">
+  <data key="d0">-122.3</data>
+  <data key="d1">47.6</data>
+</node>
+<node id="WASHng">
+  <data key="d0">-77.026842</data>
+  <data key="d1">38.897303</data>
+</node>
+<edge source="ATLAM5" target="ATLAng"/>
+<edge source="ATLAng" target="HSTNng"/>
+<edge source="ATLAng" target="IPLSng"/>
+<edge source="ATLAng" target="WASHng"/>
+<edge source="CHINng" target="IPLSng"/>
+<edge source="CHINng" target="NYCMng"/>
+<edge source="DNVRng" target="KSCYng"/>
+<edge source="DNVRng" target="SNVAng"/>
+<edge source="DNVRng" target="STTLng"/>
+<edge source="HSTNng" target="KSCYng"/>
+<edge source="HSTNng" target="LOSAng"/>
+<edge source="IPLSng" target="KSCYng"/>
+<edge source="LOSAng" target="SNVAng"/>
+<edge source="NYCMng" target="WASHng"/>
+<edge source="SNVAng" target="STTLng"/>
+</graph></graphml>
